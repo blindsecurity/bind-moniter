@@ -1,4 +1,4 @@
-# COMING SOON ......, 
+# DNS MRTG 1.0.0 Release ......, 
 
 bind-moniter is Linux & Unix O/S Base ISC BIND9 Traffic Monitoring Package.
 C & C++ Base Binary Daemon ( Client / Server).
